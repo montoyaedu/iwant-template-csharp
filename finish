@@ -1,0 +1,3 @@
+#!/bin/sh
+mv App.cs ${AssemblyName}.cs
+mv AppTests.java ${AssemblyName}Tests.cs
